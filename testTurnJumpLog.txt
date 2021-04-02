@@ -1,0 +1,10 @@
+There were 7 possible moves. The move was a black pawn to column 3  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  RP  --  RP  --  | 
+|  --  XX  --  XX  --  XX  --  XX  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  XX  --  BP  --  XX  --  XX  | 
+|  XX  --  --  --  XX  --  XX  --  | 
+|  --  --  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 

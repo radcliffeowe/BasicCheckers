@@ -1,0 +1,740 @@
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  XX  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  XX  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  XX  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  XX  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  XX  RP  --  RP  --  RP  | 
+|  XX  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  XX  RP  --  RP  --  RP  | 
+|  RP  --  XX  --  XX  --  XX  --  | 
+|  --  BP  --  XX  --  XX  --  XX  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  XX  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  XX  RP  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  RP  XX  RP  XX  RP  XX  | 
+|  XX  XX  XX  RP  XX  RP  XX  RP  | 
+|  RP  XX  XX  XX  XX  XX  XX  XX  | 
+|  XX  BP  XX  XX  XX  XX  XX  XX  | 
+|  XX  XX  BP  XX  BP  XX  BP  XX  | 
+|  XX  BP  XX  BP  XX  BP  XX  BP  | 
+|  BP  XX  BP  XX  BP  XX  BP  XX  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a black pawn to column 1  and row 4
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  --  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
+There were 7 possible moves. The move was a red pawn to column 0  and row 3
+ Updated Board:
+|  --  RP  --  RP  --  RP  --  RP  | 
+|  RP  --  RP  --  RP  --  RP  --  | 
+|  --  --  --  RP  --  RP  --  RP  | 
+|  RP  --  --  --  --  --  --  --  | 
+|  --  BP  --  --  --  --  --  --  | 
+|  --  --  BP  --  BP  --  BP  --  | 
+|  --  BP  --  BP  --  BP  --  BP  | 
+|  BP  --  BP  --  BP  --  BP  --  | 
